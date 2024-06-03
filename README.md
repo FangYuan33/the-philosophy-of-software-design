@@ -1,2 +1,1 @@
-# the-philosophy-of-software-design
-《软件设计的哲学》
+### [《软件设计的哲学》](https://yingang.github.io/aposd2e-zh/)
